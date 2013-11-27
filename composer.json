@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "Symfony bundle to integrate some Twig extensions.",
     "keywords": ["twig", "bundle", "symfony"],
-    "homepage": "https://github.com/ajgarlag/AjglTwigExtensionsBundles",
+    "homepage": "https://github.com/ajgarlag/AjglTwigExtensionsBundle",
     "license": "MIT",
     "authors": [
         {
