@@ -1,7 +1,7 @@
 AjglTwigExtensionsBundle
 ========================
 
-This bundles integrates the AjglCsv library into Symfony.
+This bundles integrates the AjglTwigExtensions library into Symfony.
 
 
 Documentation
